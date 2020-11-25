@@ -1,0 +1,15 @@
+
+.container{
+    background-color: transparent;
+    padding: 1em;
+}
+
+.item{
+    margin: 1em;
+    padding: 1em;
+    color:black;
+    float: left;
+}
+#item1{
+    background-color: white;
+}
